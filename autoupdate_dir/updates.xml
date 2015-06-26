@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.6//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_6.dtd">
-<module_updates timestamp="43/52/21/26/06/2015">
+<module_updates timestamp="47/58/21/26/06/2015">
 
 
 
-<module codenamebase="umich.ms.test.autoupdater" distribution="umich-ms-test-autoupdater.nbm" downloadsize="3745" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2015/06/26" targetcluster="nbp_autoupdate_from_github_test">
+<module codenamebase="umich.ms.test.autoupdater" distribution="umich-ms-test-autoupdater.nbm" downloadsize="3746" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2015/06/26" targetcluster="nbp_autoupdate_from_github_test">
     <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.test.autoupdater" OpenIDE-Module-Implementation-Version="150626" OpenIDE-Module-Java-Dependencies="Java &gt; 1.6" OpenIDE-Module-Module-Dependencies="org.netbeans.modules.autoupdate.services &gt; 1.47.1" OpenIDE-Module-Name="Autoupdater" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.0"/>
     
 </module>
 
-<module codenamebase="umich.ms.test.autoupdate" distribution="umich-ms-test-autoupdate.nbm" downloadsize="4561" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2015/06/26" targetcluster="nbp_autoupdate_from_github_test">
+<module codenamebase="umich.ms.test.autoupdate" distribution="umich-ms-test-autoupdate.nbm" downloadsize="4523" homepage="" license="AD9FBBC9" moduleauthor="" needsrestart="false" releasedate="2015/06/26" targetcluster="nbp_autoupdate_from_github_test">
     <manifest AutoUpdate-Show-In-Client="true" OpenIDE-Module="umich.ms.test.autoupdate" OpenIDE-Module-Implementation-Version="150626" OpenIDE-Module-Java-Dependencies="Java &gt; 1.6" OpenIDE-Module-Module-Dependencies="org.openide.awt &gt; 7.62.1, org.openide.dialogs &gt; 7.38.1, org.openide.util &gt; 8.39.1" OpenIDE-Module-Name="Test Autoupdated Module" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Specification-Version="1.1.0"/>
     
 </module>
