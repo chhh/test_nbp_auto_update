@@ -35,8 +35,8 @@ public final class ShowDialogAction implements ActionListener {
         NotifyDescriptor.Message message = new NotifyDescriptor.Message("Original message text");
         DialogDisplayer.getDefault().notifyLater(message);
 
-//        message = new NotifyDescriptor.Message("Second message text, after module update");
-//        DialogDisplayer.getDefault().notifyLater(message);
+        message = new NotifyDescriptor.Message("Second message text, after module update");
+        DialogDisplayer.getDefault().notifyLater(message);
 //
 //        message = new NotifyDescriptor.Message("Third message text, after module update");
 //        DialogDisplayer.getDefault().notifyLater(message);
